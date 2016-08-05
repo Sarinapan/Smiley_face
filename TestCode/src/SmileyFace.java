@@ -7,7 +7,7 @@ class SmileyFace extends JPanel{
 		g.setColor(Color.YELLOW);
 		g.fillOval(10, 10, 200, 200);
 		
-		g.setColor(Color.BLACK);
+		g.setColor(Color.RED);
 		g.fillOval(55, 65, 30, 30);
 		g.fillOval(135, 65, 30, 30);
 		
@@ -15,5 +15,6 @@ class SmileyFace extends JPanel{
 		g.setColor(Color.YELLOW);
 		g.fillRect(50, 110, 120, 30);
 		g.fillOval(50, 120, 120, 40);
+		
 	}
 }

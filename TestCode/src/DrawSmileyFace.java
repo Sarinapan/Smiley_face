@@ -9,5 +9,6 @@ public class DrawSmileyFace {
 		application.add(panel);
 		application.setSize(230, 250);
 		application.setVisible(true);
+		
 	}
 }
